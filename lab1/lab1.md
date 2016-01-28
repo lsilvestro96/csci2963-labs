@@ -13,10 +13,8 @@
      question. The answer should also be tailored to the skill level of the person with the issue, so 
      that they have a clear understanding of how to approach the problem.
 
-5. ![Linux screenshot](images/linux.png)
+5. Using various commands such as cd, ls, and chmod 
+![Linux screenshot](images/linux.png)
 
-6. ![Grep screenshot](images/grep.png)
-
-7.
-
-8. 
+6. Using grep to find patterns in files and outputs
+![Grep screenshot](images/grep.png)
