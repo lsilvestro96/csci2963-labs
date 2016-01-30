@@ -47,4 +47,7 @@ e. Regex
   2. crossword
      ![regex crossword](images/crossword.png)
 
-f. 
+f. Complete Blocky exercise:
+  ![blocky game](images/blocky.png)
+
+g.  
