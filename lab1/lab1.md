@@ -2,7 +2,7 @@
 ### Lab 1
 a. A github account and repository for the labs was set up after reading the tutorials
 
-b. Link to bio page: [https://github.com/lsilvestro96/csci2963-labs/blob/master/bio.md]
+b. Link to bio page: https://github.com/lsilvestro96/csci2963-labs/blob/master/bio.md
 
 c. Reading assignments
   1. The 10 criteria of Open Source Definition are important because they ensure that open source software
