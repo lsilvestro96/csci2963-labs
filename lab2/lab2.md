@@ -24,7 +24,7 @@
    for that OEM's specific devices, or it can be shared to help improve stock Android. The modified kernel source must be released 
    under any circumstance because it is based off of Linux, which is licensed under GPL, a copyleft license.
 
-6.  
+6. Example project: An application that uses a
 
 7. GPL is best for developers because it requires that modifications to the original project are open source as well, so that the
    the program can be improved further. Since anyone has access to the source code, there is a higher probability for someone to find
@@ -35,7 +35,7 @@
    any purpose, can be distributed freely, and any modifications to the original source code must be released so that others can benefit
    from your improvements.
 
-8. 
+8. Repository with license: https://github.com/lsilvestro96/lab2-question-8
 
 9. | Website                            | License Present | License   |
    |------------------------------------|:---------------:|-----------|
@@ -45,7 +45,11 @@
    |https://github.com/paulchorba/TrueVR|Yes			  |MIT		  |
    |https://github.com/TheoBr/Chrometana|Yes 			  |MIT		  |
 
-10. My project is going to be a podcast manager for Windows desktop. Typical users of this application will primarily be the general
-	public; there would most likely be no commercial use for this software since its primary use would be for entertainment purposes.
+10. My project is going to be a podcast manager for Windows desktop. I am thinking of choosing this project because I was recently looking
+    for podcast managers for Windows, but there were not many to choose from, even though most popular mobile platforms have plenty of 
+    choices. Typical users of this application will primarily be the general public. There would most likely be no commercial use 
+	for this software, since its primary use would be for entertainment purposes. Initially, I wanted to use GPL for the licensing, 
+	but I will probably use MIT instead since its a simpler license, and requiring derivative work to be open source as well is not
+	a priority for me. 
 
 	![cc logo](images/cc.png) This work is licensed under a http://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License.
