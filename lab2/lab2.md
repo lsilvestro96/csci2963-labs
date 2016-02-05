@@ -22,3 +22,25 @@
    it is based off of Linux, which is licensed under GPL, a copyleft license.
 
 6.  
+
+7. GPL is best for developers because it requires that modifications to the original project are open source as well, so that the
+   the program can be improved further. Since anyone has access to the source code, there is a higher probability for someone to find
+   an issue that needs to be fixed. Permissive licenses such as Apache and BSD are good for corporations because it allows them to either
+   keep the source open, or make it proprietary to prevent people from analyzing code that the company does not want to disclose. LGPL is
+   also beneficial to companies because libraries under this license can be included in proprietary software, as long as any modifications
+   to the libraries are released. GPL is best for the common good because it allows true freedom in software; it can be used by anyone, for
+   any purpose, can be distributed freely, and any modifications to the original source code must be released so that others can benefit
+   from your improvements.
+
+8. 
+
+9. | Website                            | License Present | License   |
+   |------------------------------------|:---------------:|-----------|
+   |https://github.com/AutoRoute/node   |Yes			  |MIT		  |
+   |https://github.com/makinj/MeNext    |Yes			  |MIT        |
+   |https://github.com/bocaaust/CrowdCop|Yes			  |Apache 2.0 |
+   |https://github.com/paulchorba/TrueVR|Yes			  |MIT		  |
+   |https://github.com/TheoBr/Chrometana|Yes 			  |MIT		  |
+
+10. My project is going to be a podcast manager for Windows desktop. Typical users of this application will primarily be the general
+	public; there would most likely be no commercial use for this software since its primary use would be for entertainment purposes.
