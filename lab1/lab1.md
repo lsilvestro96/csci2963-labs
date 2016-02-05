@@ -2,7 +2,7 @@
 ### Lab 1
 a. A github account and repository for the labs was set up after reading the tutorials
 
-b. A bio page was created and uploaded to the root of the remote repository
+b. Link to bio page: [https://github.com/lsilvestro96/csci2963-labs/blob/master/bio.md]
 
 c. Reading assignments
   1. The 10 criteria of Open Source Definition are important because they ensure that open source software
@@ -47,7 +47,11 @@ e. Regex
   2. crossword
      ![regex crossword](images/crossword.png)
 
-f. Complete Blocky exercise:
+f. Completed Blocky exercise:
   ![blocky game](images/blocky.png)
 
-g.  
+g. A project that I am interested in is creating an open source podcast manager for Windows desktop. There are many different options for managing podcasts on mobile platforms,
+   but for desktop users, there are not as many choices. This project will probably be written in c++, since I know this language very well, and it will facilitate porting the program
+   to a different desktop platform if I decide to support other operating systems. Features of the application will most likely include a way to manage and subscribe to new podcasts, listen to
+   shows by either streaming the content or storing it offline, and a way to search for and discover new podcasts. In addition, it will feature an intuitive and well-designed interface, so that
+   content can be accessed easily and quickly.
