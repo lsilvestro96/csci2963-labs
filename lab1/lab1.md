@@ -7,7 +7,7 @@ b. Link to bio page: [https://github.com/lsilvestro96/csci2963-labs/blob/master/
 c. Reading assignments
   1. The 10 criteria of Open Source Definition are important because they ensure that open source software
 	is freely available to everyone to use and modify for any purpose. These principles also help foster
-	innovation by requiring that all changes to the original work are free to be modified further and distributed, which preserves the free nature of open source projects.
+	innovation by permitting that all changes to the original work are free to be modified further and distributed, which preserves the free nature of open source projects.
 	
   2.  Suggestions for answering questions in a helpful way:
 	 1. When suggesting a different method of completing a goal, make sure that solution fits the needs
