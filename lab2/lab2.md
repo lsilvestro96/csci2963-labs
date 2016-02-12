@@ -19,21 +19,22 @@
 
 5. Google uses Apache for its Android mobile operating system and GPL for the Linux-based kernel because it allows for others to contribute 
    to the software while providing OEMs the option to keep their modifications secret or distribute them. Since Android is open source, 
-   it allows other people to audit the source, facilitating the discovery of bugs and security vulnerabilities. The Apache license also 
+   it allows other people to audit the code, facilitating the discovery of bugs and security vulnerabilities. The Apache license also 
    allows for other parties, such as OEMs, to customize Android to allow for enhanced features that can be kept specifically  
    for that OEM's specific devices, or it can be shared to help improve stock Android. The modified kernel source must be released 
    under any circumstance because it is based off of Linux, which is licensed under GPL, a copyleft license.
 
-6. Example project: An application that uses a
+6. Example project: Open source team collaboration application similar to Slack. A good license would be the MIT license,
+   because it is simple and permissive but ensures that the original creator is still attributed to the work.
 
 7. GPL is best for developers because it requires that modifications to the original project are open source as well, so that the
    the program can be improved further. Since anyone has access to the source code, there is a higher probability for someone to find
    an issue that needs to be fixed. Permissive licenses such as Apache and BSD are good for corporations because it allows them to either
-   keep the source open, or make it proprietary to prevent people from analyzing code that the company does not want to disclose. LGPL is
-   also beneficial to companies because libraries under this license can be included in proprietary software, as long as any modifications
-   to the libraries are released. GPL is best for the common good because it allows true freedom in software; it can be used by anyone, for
-   any purpose, can be distributed freely, and any modifications to the original source code must be released so that others can benefit
-   from your improvements.
+   keep the source open, or make it proprietary to prevent people from analyzing code that the company does not want to disclose. Apache also
+   allows for companies to express patent rights for the software. LGPL is also beneficial to companies because libraries under this license can 
+   be included in proprietary software, as long as any modifications to the libraries are released. GPL is best for the common good because it 
+   allows true freedom in software; it can be used by anyone, for any purpose, can be distributed freely, and any modifications to the original 
+   source code must be released so that others can benefit from your improvements.
 
 8. Repository with license: https://github.com/lsilvestro96/lab2-question-8
 
