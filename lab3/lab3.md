@@ -1,6 +1,7 @@
 ##Lab 3
 Part 1:
 Repository link: https://github.com/lsilvestro96/lab3part1
+
 gitk: ![gitk](images/gitk.png) 
 
 git log: 
@@ -15,6 +16,7 @@ Git exercise screenshot:
 ![git_branch](images/git_branch.png)
 
 Part 3:
+
 1. https://github.com/lsilvestro96/spring2016pullreq 
 2. Using git diff on the previous repository showed the different files that were
    changed, the differences between commits, and when the changes took place. Git diff
