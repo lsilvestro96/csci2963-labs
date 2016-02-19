@@ -9,7 +9,9 @@ git log:
 
 Part 2:
 Link to forked repository: https://github.com/lsilvestro96/Spoon-Knife
+
 Git exercise screenshot:
+
 ![git_branch](images/git_branch.png)
 
 Part 3:
