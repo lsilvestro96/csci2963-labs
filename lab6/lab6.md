@@ -53,3 +53,5 @@ Branches
 - nodes
 
 - tmp_branch
+
+3. Link to gource video: ![gource-vid](https://youtu.be/ylyJ6IYTuEU)
