@@ -35,26 +35,26 @@ cloudbench
 
   * 2 contributors
 
-  *Commit 1: (a062af793fd2cc0ed8fbf1957400b4fe6d8777af) Added description of repository as a readme
+  * Commit 1: (a062af793fd2cc0ed8fbf1957400b4fe6d8777af) Added description of repository as a readme
 
-  *Commit 38: (62c4fc23bbc7016a0234b15d61f8a6d317f32654) Merged a pull request that added files for static javascript functionality.
+  * Commit 38: (62c4fc23bbc7016a0234b15d61f8a6d317f32654) Merged a pull request that added files for static javascript functionality.
 
- * Branches
-   * master
-   * copy
+  * Branches
+    * master
+    * copy
 
-   * gh-pages
+    * gh-pages
 
-   * new_ui
+    * new_ui
 
-   * nodes
+    * nodes
 
-   * tmp_branch
+    * tmp_branch
 
 3. Link to gource video: ![gource-vid](https://youtu.be/ylyJ6IYTuEU)
 
 Part 2:
-python file links: (markdown.py) (test_markdown_unittest.py)
+python file links: [markdown.py](markdown.py) [unittest](test_markdown_unittest.py)
 
 screenshot of test success:
 
