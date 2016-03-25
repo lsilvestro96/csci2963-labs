@@ -1,5 +1,8 @@
 ##Lab 6
 
+Part 1:
+
+1. Projects:
 Observatory:
 * Contributors - 26
 * Lines of code - 11592
@@ -51,7 +54,23 @@ cloudbench
 
     * tmp_branch
 
-3. Link to gource video: ![gource-vid](https://youtu.be/ylyJ6IYTuEU)
+2. Gitstats:
+   * Observatory: GitStats reports a higher number of contributors, slightly
+     less lines of code.
+   * SplitScreen: GitStats reported 5 instead of 4 contributors, more lines of
+     code, and reported the first commit was made on 9/8/15 instead of 9/6/15
+   * Cloudbench: Gitstats data corresponded with data found by hand
+   * SharpNav: Gitstats reports 14 vs 10 contributors, less lines of code,
+     and reported the first commit was made on 8/21/13 vs 8/18/13
+   * Auto-Route: Gitstats
+
+3. Link to gource videos: 
+  * [Observatory](https://youtu.be/ylyJ6IYTuEU)
+  * [Auto-Route](https://www.youtube.com/watch?v=-fNPgo-nkYM)
+  * [SharpNav](https://www.youtube.com/watch?v=_jtZgbA17o0)
+  * [CloudBench](https://www.youtube.com/watch?v=TCaG8_DLJsY)
+  * [SplitScreen](https://www.youtube.com/watch?v=RsUDFDfWQN0)
+  
 
 Part 2:
 python file links: [markdown.py](markdown.py) [unittest](test_markdown_unittest.py)
