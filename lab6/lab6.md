@@ -55,14 +55,15 @@ Part 1:
    * Cloudbench: Gitstats data corresponded with data found by hand
    * SharpNav: Gitstats reports 14 vs 10 contributors, less lines of code,
      and reported the first commit was made on 8/21/13 vs 8/18/13
-   * Auto-Route: Gitstats
+   * Auto-Route: Gitstats reports 8 instead of 5 contributors, 52,071 instead
+     of 52,066 lines of code.
 
 3. Link to gource videos: 
-  * [Observatory](https://youtu.be/ylyJ6IYTuEU)
-  * [Auto-Route](https://www.youtube.com/watch?v=-fNPgo-nkYM)
-  * [SharpNav](https://www.youtube.com/watch?v=_jtZgbA17o0)
-  * [CloudBench](https://www.youtube.com/watch?v=TCaG8_DLJsY)
-  * [SplitScreen](https://www.youtube.com/watch?v=RsUDFDfWQN0)
+  * [Observatory](https://youtu.be/ylyJ6IYTuEU) Aaron Gunderson seems to be the leader
+  * [Auto-Route](https://www.youtube.com/watch?v=-fNPgo-nkYM) Colin L. Rice seems to be the leader
+  * [SharpNav](https://www.youtube.com/watch?v=_jtZgbA17o0) Robert Rouhani seems to be the leader
+  * [CloudBench](https://www.youtube.com/watch?v=TCaG8_DLJsY) Warren Nelson seems to be the leader
+  * [SplitScreen](https://www.youtube.com/watch?v=RsUDFDfWQN0) Tausil Ahmed seems to be the leader
   
 
 Part 2:
