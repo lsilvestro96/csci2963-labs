@@ -3,6 +3,7 @@
 Part 1:
 
 1. Projects:
+
 Observatory:
 * Contributors - 26
 * Lines of code - 11592
