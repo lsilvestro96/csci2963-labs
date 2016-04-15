@@ -46,8 +46,8 @@
 
 4. Driving Queries
 
-   code of python file: (checkpoint4.py)
+   code of python file: [checkpoint4.py]
 
 5. Random Word Requester
 
-   code: (checkpoint5.py)
+   code: [checkpoint5.py]
